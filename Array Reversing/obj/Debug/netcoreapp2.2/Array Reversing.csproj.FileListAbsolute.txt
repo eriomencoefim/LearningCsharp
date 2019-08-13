@@ -1,0 +1,10 @@
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Array Reversing\bin\Debug\netcoreapp2.2\Array Reversing.deps.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Array Reversing\bin\Debug\netcoreapp2.2\Array Reversing.runtimeconfig.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Array Reversing\bin\Debug\netcoreapp2.2\Array Reversing.runtimeconfig.dev.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Array Reversing\bin\Debug\netcoreapp2.2\Array Reversing.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Array Reversing\bin\Debug\netcoreapp2.2\Array Reversing.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Array Reversing\obj\Debug\netcoreapp2.2\Array Reversing.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Array Reversing\obj\Debug\netcoreapp2.2\Array Reversing.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Array Reversing\obj\Debug\netcoreapp2.2\Array Reversing.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Array Reversing\obj\Debug\netcoreapp2.2\Array Reversing.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Array Reversing\obj\Debug\netcoreapp2.2\Array Reversing.pdb

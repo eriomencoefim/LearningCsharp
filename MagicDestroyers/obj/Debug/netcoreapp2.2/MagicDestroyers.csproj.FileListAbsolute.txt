@@ -1,0 +1,11 @@
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MagicDestroyers\bin\Debug\netcoreapp2.2\MagicDestroyers.deps.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MagicDestroyers\bin\Debug\netcoreapp2.2\MagicDestroyers.runtimeconfig.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MagicDestroyers\bin\Debug\netcoreapp2.2\MagicDestroyers.runtimeconfig.dev.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MagicDestroyers\bin\Debug\netcoreapp2.2\MagicDestroyers.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MagicDestroyers\bin\Debug\netcoreapp2.2\MagicDestroyers.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MagicDestroyers\obj\Debug\netcoreapp2.2\MagicDestroyers.csprojAssemblyReference.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MagicDestroyers\obj\Debug\netcoreapp2.2\MagicDestroyers.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MagicDestroyers\obj\Debug\netcoreapp2.2\MagicDestroyers.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MagicDestroyers\obj\Debug\netcoreapp2.2\MagicDestroyers.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MagicDestroyers\obj\Debug\netcoreapp2.2\MagicDestroyers.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MagicDestroyers\obj\Debug\netcoreapp2.2\MagicDestroyers.pdb

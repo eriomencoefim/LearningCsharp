@@ -1,0 +1,11 @@
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Outputting arrays\bin\Debug\netcoreapp2.2\Outputting arrays.deps.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Outputting arrays\bin\Debug\netcoreapp2.2\Outputting arrays.runtimeconfig.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Outputting arrays\bin\Debug\netcoreapp2.2\Outputting arrays.runtimeconfig.dev.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Outputting arrays\bin\Debug\netcoreapp2.2\Outputting arrays.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Outputting arrays\bin\Debug\netcoreapp2.2\Outputting arrays.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Outputting arrays\obj\Debug\netcoreapp2.2\Outputting arrays.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Outputting arrays\obj\Debug\netcoreapp2.2\Outputting arrays.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Outputting arrays\obj\Debug\netcoreapp2.2\Outputting arrays.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Outputting arrays\obj\Debug\netcoreapp2.2\Outputting arrays.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Outputting arrays\obj\Debug\netcoreapp2.2\Outputting arrays.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Outputting arrays\obj\Debug\netcoreapp2.2\Outputting arrays.csprojAssemblyReference.cache

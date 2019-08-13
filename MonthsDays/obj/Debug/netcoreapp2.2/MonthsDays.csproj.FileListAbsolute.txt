@@ -1,0 +1,11 @@
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MonthsDays\bin\Debug\netcoreapp2.2\MonthsDays.deps.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MonthsDays\bin\Debug\netcoreapp2.2\MonthsDays.runtimeconfig.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MonthsDays\bin\Debug\netcoreapp2.2\MonthsDays.runtimeconfig.dev.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MonthsDays\bin\Debug\netcoreapp2.2\MonthsDays.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MonthsDays\bin\Debug\netcoreapp2.2\MonthsDays.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MonthsDays\obj\Debug\netcoreapp2.2\MonthsDays.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MonthsDays\obj\Debug\netcoreapp2.2\MonthsDays.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MonthsDays\obj\Debug\netcoreapp2.2\MonthsDays.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MonthsDays\obj\Debug\netcoreapp2.2\MonthsDays.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MonthsDays\obj\Debug\netcoreapp2.2\MonthsDays.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MonthsDays\obj\Debug\netcoreapp2.2\MonthsDays.csprojAssemblyReference.cache

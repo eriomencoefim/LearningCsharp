@@ -1,0 +1,11 @@
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Ref and Out\bin\Debug\netcoreapp2.2\Ref and Out.deps.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Ref and Out\bin\Debug\netcoreapp2.2\Ref and Out.runtimeconfig.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Ref and Out\bin\Debug\netcoreapp2.2\Ref and Out.runtimeconfig.dev.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Ref and Out\bin\Debug\netcoreapp2.2\Ref and Out.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Ref and Out\bin\Debug\netcoreapp2.2\Ref and Out.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Ref and Out\obj\Debug\netcoreapp2.2\Ref and Out.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Ref and Out\obj\Debug\netcoreapp2.2\Ref and Out.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Ref and Out\obj\Debug\netcoreapp2.2\Ref and Out.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Ref and Out\obj\Debug\netcoreapp2.2\Ref and Out.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Ref and Out\obj\Debug\netcoreapp2.2\Ref and Out.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Ref and Out\obj\Debug\netcoreapp2.2\Ref and Out.csprojAssemblyReference.cache

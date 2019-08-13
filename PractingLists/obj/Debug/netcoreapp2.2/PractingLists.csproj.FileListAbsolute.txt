@@ -1,0 +1,10 @@
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PractingLists\bin\Debug\netcoreapp2.2\PractingLists.deps.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PractingLists\bin\Debug\netcoreapp2.2\PractingLists.runtimeconfig.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PractingLists\bin\Debug\netcoreapp2.2\PractingLists.runtimeconfig.dev.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PractingLists\bin\Debug\netcoreapp2.2\PractingLists.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PractingLists\bin\Debug\netcoreapp2.2\PractingLists.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PractingLists\obj\Debug\netcoreapp2.2\PractingLists.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PractingLists\obj\Debug\netcoreapp2.2\PractingLists.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PractingLists\obj\Debug\netcoreapp2.2\PractingLists.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PractingLists\obj\Debug\netcoreapp2.2\PractingLists.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PractingLists\obj\Debug\netcoreapp2.2\PractingLists.pdb

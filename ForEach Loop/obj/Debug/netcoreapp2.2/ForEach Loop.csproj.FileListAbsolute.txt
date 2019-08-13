@@ -1,0 +1,11 @@
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\ForEach Loop\bin\Debug\netcoreapp2.2\ForEach Loop.deps.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\ForEach Loop\bin\Debug\netcoreapp2.2\ForEach Loop.runtimeconfig.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\ForEach Loop\bin\Debug\netcoreapp2.2\ForEach Loop.runtimeconfig.dev.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\ForEach Loop\bin\Debug\netcoreapp2.2\ForEach Loop.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\ForEach Loop\bin\Debug\netcoreapp2.2\ForEach Loop.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\ForEach Loop\obj\Debug\netcoreapp2.2\ForEach Loop.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\ForEach Loop\obj\Debug\netcoreapp2.2\ForEach Loop.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\ForEach Loop\obj\Debug\netcoreapp2.2\ForEach Loop.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\ForEach Loop\obj\Debug\netcoreapp2.2\ForEach Loop.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\ForEach Loop\obj\Debug\netcoreapp2.2\ForEach Loop.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\ForEach Loop\obj\Debug\netcoreapp2.2\ForEach Loop.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MiniWhileGame\bin\Debug\netcoreapp2.2\MiniWhileGame.deps.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MiniWhileGame\bin\Debug\netcoreapp2.2\MiniWhileGame.runtimeconfig.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MiniWhileGame\bin\Debug\netcoreapp2.2\MiniWhileGame.runtimeconfig.dev.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MiniWhileGame\bin\Debug\netcoreapp2.2\MiniWhileGame.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MiniWhileGame\bin\Debug\netcoreapp2.2\MiniWhileGame.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MiniWhileGame\obj\Debug\netcoreapp2.2\MiniWhileGame.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MiniWhileGame\obj\Debug\netcoreapp2.2\MiniWhileGame.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MiniWhileGame\obj\Debug\netcoreapp2.2\MiniWhileGame.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MiniWhileGame\obj\Debug\netcoreapp2.2\MiniWhileGame.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\MiniWhileGame\obj\Debug\netcoreapp2.2\MiniWhileGame.pdb

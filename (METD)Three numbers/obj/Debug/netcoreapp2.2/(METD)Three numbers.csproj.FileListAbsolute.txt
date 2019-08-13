@@ -1,0 +1,10 @@
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\(METD)Three numbers\bin\Debug\netcoreapp2.2\(METD)Three numbers.deps.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\(METD)Three numbers\bin\Debug\netcoreapp2.2\(METD)Three numbers.runtimeconfig.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\(METD)Three numbers\bin\Debug\netcoreapp2.2\(METD)Three numbers.runtimeconfig.dev.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\(METD)Three numbers\bin\Debug\netcoreapp2.2\(METD)Three numbers.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\(METD)Three numbers\bin\Debug\netcoreapp2.2\(METD)Three numbers.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\(METD)Three numbers\obj\Debug\netcoreapp2.2\(METD)Three numbers.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\(METD)Three numbers\obj\Debug\netcoreapp2.2\(METD)Three numbers.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\(METD)Three numbers\obj\Debug\netcoreapp2.2\(METD)Three numbers.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\(METD)Three numbers\obj\Debug\netcoreapp2.2\(METD)Three numbers.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\(METD)Three numbers\obj\Debug\netcoreapp2.2\(METD)Three numbers.pdb

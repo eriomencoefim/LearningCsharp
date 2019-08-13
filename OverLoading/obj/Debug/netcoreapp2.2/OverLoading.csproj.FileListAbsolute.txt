@@ -1,0 +1,10 @@
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\OverLoading\bin\Debug\netcoreapp2.2\OverLoading.deps.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\OverLoading\bin\Debug\netcoreapp2.2\OverLoading.runtimeconfig.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\OverLoading\bin\Debug\netcoreapp2.2\OverLoading.runtimeconfig.dev.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\OverLoading\bin\Debug\netcoreapp2.2\OverLoading.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\OverLoading\bin\Debug\netcoreapp2.2\OverLoading.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\OverLoading\obj\Debug\netcoreapp2.2\OverLoading.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\OverLoading\obj\Debug\netcoreapp2.2\OverLoading.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\OverLoading\obj\Debug\netcoreapp2.2\OverLoading.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\OverLoading\obj\Debug\netcoreapp2.2\OverLoading.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\OverLoading\obj\Debug\netcoreapp2.2\OverLoading.pdb

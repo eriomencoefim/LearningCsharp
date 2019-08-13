@@ -1,0 +1,10 @@
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PlaceHolders\bin\Debug\netcoreapp2.2\PlaceHolders.deps.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PlaceHolders\bin\Debug\netcoreapp2.2\PlaceHolders.runtimeconfig.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PlaceHolders\bin\Debug\netcoreapp2.2\PlaceHolders.runtimeconfig.dev.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PlaceHolders\bin\Debug\netcoreapp2.2\PlaceHolders.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PlaceHolders\bin\Debug\netcoreapp2.2\PlaceHolders.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PlaceHolders\obj\Debug\netcoreapp2.2\PlaceHolders.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PlaceHolders\obj\Debug\netcoreapp2.2\PlaceHolders.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PlaceHolders\obj\Debug\netcoreapp2.2\PlaceHolders.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PlaceHolders\obj\Debug\netcoreapp2.2\PlaceHolders.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\PlaceHolders\obj\Debug\netcoreapp2.2\PlaceHolders.pdb

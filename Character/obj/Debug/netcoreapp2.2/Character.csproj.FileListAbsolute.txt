@@ -1,0 +1,10 @@
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Character\bin\Debug\netcoreapp2.2\Character.deps.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Character\bin\Debug\netcoreapp2.2\Character.runtimeconfig.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Character\bin\Debug\netcoreapp2.2\Character.runtimeconfig.dev.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Character\bin\Debug\netcoreapp2.2\Character.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Character\bin\Debug\netcoreapp2.2\Character.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Character\obj\Debug\netcoreapp2.2\Character.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Character\obj\Debug\netcoreapp2.2\Character.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Character\obj\Debug\netcoreapp2.2\Character.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Character\obj\Debug\netcoreapp2.2\Character.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Character\obj\Debug\netcoreapp2.2\Character.pdb

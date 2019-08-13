@@ -1,0 +1,10 @@
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\DoWhile\bin\Debug\netcoreapp2.2\DoWhile.deps.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\DoWhile\bin\Debug\netcoreapp2.2\DoWhile.runtimeconfig.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\DoWhile\bin\Debug\netcoreapp2.2\DoWhile.runtimeconfig.dev.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\DoWhile\bin\Debug\netcoreapp2.2\DoWhile.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\DoWhile\bin\Debug\netcoreapp2.2\DoWhile.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\DoWhile\obj\Debug\netcoreapp2.2\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\DoWhile\obj\Debug\netcoreapp2.2\DoWhile.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\DoWhile\obj\Debug\netcoreapp2.2\DoWhile.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\DoWhile\obj\Debug\netcoreapp2.2\DoWhile.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\DoWhile\obj\Debug\netcoreapp2.2\DoWhile.pdb

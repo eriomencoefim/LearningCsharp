@@ -1,0 +1,11 @@
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Basic Class\bin\Debug\netcoreapp2.2\Basic Class.deps.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Basic Class\bin\Debug\netcoreapp2.2\Basic Class.runtimeconfig.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Basic Class\bin\Debug\netcoreapp2.2\Basic Class.runtimeconfig.dev.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Basic Class\bin\Debug\netcoreapp2.2\Basic Class.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Basic Class\bin\Debug\netcoreapp2.2\Basic Class.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Basic Class\obj\Debug\netcoreapp2.2\Basic Class.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Basic Class\obj\Debug\netcoreapp2.2\Basic Class.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Basic Class\obj\Debug\netcoreapp2.2\Basic Class.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Basic Class\obj\Debug\netcoreapp2.2\Basic Class.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Basic Class\obj\Debug\netcoreapp2.2\Basic Class.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Basic Class\obj\Debug\netcoreapp2.2\Basic Class.csprojAssemblyReference.cache

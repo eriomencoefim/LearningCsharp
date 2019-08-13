@@ -1,0 +1,10 @@
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Reference and Value Types\bin\Debug\netcoreapp2.2\Reference and Value Types.deps.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Reference and Value Types\bin\Debug\netcoreapp2.2\Reference and Value Types.runtimeconfig.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Reference and Value Types\bin\Debug\netcoreapp2.2\Reference and Value Types.runtimeconfig.dev.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Reference and Value Types\bin\Debug\netcoreapp2.2\Reference and Value Types.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Reference and Value Types\bin\Debug\netcoreapp2.2\Reference and Value Types.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Reference and Value Types\obj\Debug\netcoreapp2.2\Reference and Value Types.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Reference and Value Types\obj\Debug\netcoreapp2.2\Reference and Value Types.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Reference and Value Types\obj\Debug\netcoreapp2.2\Reference and Value Types.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Reference and Value Types\obj\Debug\netcoreapp2.2\Reference and Value Types.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Reference and Value Types\obj\Debug\netcoreapp2.2\Reference and Value Types.pdb

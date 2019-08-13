@@ -1,0 +1,10 @@
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Boolean\bin\Debug\netcoreapp2.2\Boolean.deps.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Boolean\bin\Debug\netcoreapp2.2\Boolean.runtimeconfig.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Boolean\bin\Debug\netcoreapp2.2\Boolean.runtimeconfig.dev.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Boolean\bin\Debug\netcoreapp2.2\Boolean.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Boolean\bin\Debug\netcoreapp2.2\Boolean.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Boolean\obj\Debug\netcoreapp2.2\Boolean.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Boolean\obj\Debug\netcoreapp2.2\Boolean.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Boolean\obj\Debug\netcoreapp2.2\Boolean.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Boolean\obj\Debug\netcoreapp2.2\Boolean.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Boolean\obj\Debug\netcoreapp2.2\Boolean.pdb

@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Cristi-PC\\source\\repos\\ConsoleApp4\\Boolean\\0.3Boolean.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Cristi-PC\\source\\repos\\ConsoleApp4\\Boolean\\0.3Boolean.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cristi-PC\\source\\repos\\ConsoleApp4\\Boolean\\0.3Boolean.csproj",
+        "projectName": "0.3Boolean",
+        "projectPath": "C:\\Users\\Cristi-PC\\source\\repos\\ConsoleApp4\\Boolean\\0.3Boolean.csproj",
+        "packagesPath": "C:\\Users\\Cristi-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cristi-PC\\source\\repos\\ConsoleApp4\\Boolean\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cristi-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

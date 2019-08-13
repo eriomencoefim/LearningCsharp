@@ -1,0 +1,11 @@
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Methods that return\bin\Debug\netcoreapp2.2\Methods that return.deps.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Methods that return\bin\Debug\netcoreapp2.2\Methods that return.runtimeconfig.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Methods that return\bin\Debug\netcoreapp2.2\Methods that return.runtimeconfig.dev.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Methods that return\bin\Debug\netcoreapp2.2\Methods that return.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Methods that return\bin\Debug\netcoreapp2.2\Methods that return.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Methods that return\obj\Debug\netcoreapp2.2\Methods that return.csprojAssemblyReference.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Methods that return\obj\Debug\netcoreapp2.2\Methods that return.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Methods that return\obj\Debug\netcoreapp2.2\Methods that return.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Methods that return\obj\Debug\netcoreapp2.2\Methods that return.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Methods that return\obj\Debug\netcoreapp2.2\Methods that return.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Methods that return\obj\Debug\netcoreapp2.2\Methods that return.pdb

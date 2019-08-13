@@ -1,0 +1,10 @@
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Nested Conditional Statement\bin\Debug\netcoreapp2.2\Nested Conditional Statement.deps.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Nested Conditional Statement\bin\Debug\netcoreapp2.2\Nested Conditional Statement.runtimeconfig.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Nested Conditional Statement\bin\Debug\netcoreapp2.2\Nested Conditional Statement.runtimeconfig.dev.json
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Nested Conditional Statement\bin\Debug\netcoreapp2.2\Nested Conditional Statement.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Nested Conditional Statement\bin\Debug\netcoreapp2.2\Nested Conditional Statement.pdb
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Nested Conditional Statement\obj\Debug\netcoreapp2.2\Nested Conditional Statement.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Nested Conditional Statement\obj\Debug\netcoreapp2.2\Nested Conditional Statement.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Nested Conditional Statement\obj\Debug\netcoreapp2.2\Nested Conditional Statement.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Nested Conditional Statement\obj\Debug\netcoreapp2.2\Nested Conditional Statement.dll
+C:\Users\Cristi-PC\source\repos\ConsoleApp4\Nested Conditional Statement\obj\Debug\netcoreapp2.2\Nested Conditional Statement.pdb
